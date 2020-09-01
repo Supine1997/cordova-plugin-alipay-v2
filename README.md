@@ -1,0 +1,1 @@
+- [README](http://192.168.3.168:12000/tool/docs/tree/dev/ionic%20capacitor%20%E4%B8%8E%20cordova-plugin-alipay-v2%E5%85%BC%E5%AE%B9%E6%80%A7%E9%97%AE%E9%A2%98)
